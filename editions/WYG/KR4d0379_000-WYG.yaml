@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0379/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0379_WYG_000-1a, image: WYG1186/WYG1186-0765a.png}
+body:
+  text: 嘉禾百咏别集類三宋提要臣等謹案嘉禾百咏一巻宋張堯同撰堯同秀州人仕履未詳詩中所詠會景亭為潘師旦所築趙老園為趙衮歸隠之處核其時代葢寧宗以後人也宋世文人學士歌詠其土風之勝者往往以誇多鬬靡為工如阮閲郴江百詠許尚華亭百詠曾極金陵百詠之類所作皆以百首為率互相仿效勉強取盈不免沿為習套故堯同所咏嘉興一郡山川古蹟亦以百篇槩之徐碩至元嘉禾志已與陸蒙老所賦嘉禾八詠同採入題詠門内後来作郡志者亦頗散見其間而摭拾均未全備此乃其初出單行之本每首之後皆有附考不知何人所作舊有跋語亦不載姓名年月其詞雖不甚工而自吳越以後嘉興典故頗可得其梗概近時朱彞尊作鴛鴦湖櫂歌一百首葢即踵前例而稍變其面目者在彞尊詩筆之工麗固已後来居上而堯同採掇名目臚叙大凡其於地志考据要不為無助矣乾隆四十四年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:a0b2b60a699100c68b3c4021b6d8c045ae3e0fe8f96be5fce93e633c15c760a9
+metadata:
+  title: 嘉禾百咏
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:06:47.923673'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0379/KR4d0379_000.txt
+hash: sha256:cd100316254a59d6249fb8276dff5dbdb5d5f543bed73d7eede647701acc7bd6
