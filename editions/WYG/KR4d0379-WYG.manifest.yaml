@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4d0379_000-WYG.yaml, hash: 'sha256:cd100316254a59d6249fb8276dff5dbdb5d5f543bed73d7eede647701acc7bd6'}
   - {seq: 1, filename: KR4d0379_001-WYG.yaml, hash: 'sha256:ad747bc6dfc284d1c3e74c657f06542736159c654a0ade6729770bff28c5e912'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0379_000-WYG.markers.yaml, hash: 'sha256:3368132e9da8ffcf66da1caadfe841d17ccb8e4db43e98cf9de47ff7070b7c1c'}
-  - {seq: 1, role: markers, filename: assets/KR4d0379_001-WYG.markers.yaml, hash: 'sha256:964a5ac84eae18f97941fef820f0bb6219724272f731083b959617c4ccdb63ae'}
+  - {seq: 0, role: markers, filename: assets/KR4d0379_000-WYG.markers.yaml, hash: 'sha256:60f6d8fafbbef397696f2a086e5bfc82a348f25066d7b0653173503b7ec0106c'}
+  - {seq: 1, role: markers, filename: assets/KR4d0379_001-WYG.markers.yaml, hash: 'sha256:24cc0595a91b7ef81c8ad14a788929a0b88f5bf257d9771656b0c7ee38920b3f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 嘉禾百咏
   type: section
   level: 1
-hash: sha256:9dc3c2b0af5930bbfb6f43075cbcb481c276ae8c389292853f01fe135ac4ba58
+hash: sha256:b773d23be9e7898b3b1972ce8161ede69e1c5302b6946cf8d80bf9aa7cc6187c
